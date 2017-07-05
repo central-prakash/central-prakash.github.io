@@ -1,0 +1,82 @@
+@charset "UTF-8";
+.textblue{
+	font-size: 30px;
+	color:#164DA0;
+}
+.textmediumgrayblack{
+	color:#9AA39E;
+}
+.textgrayblack{
+	color:#C6B8B7;
+}
+.headerbackground{
+	background:#164DA0;
+}
+
+.field{
+	padding: 10px 0 10px 0;
+}
+
+.field input[type="text"]{
+	width: 200px;
+	border: 1px solid #0985bb;
+	padding: 10px;
+}
+
+.field label{
+	width:100%;
+	font-size: 14px;
+	float: left;
+}
+
+.field textarea{
+	height: 102px;
+	width: 200px;
+	border: 1px solid #0985bb;
+	padding: 10px;
+	resize: vertical;
+	overflow: auto;
+	margin: 0;
+	vertical-align: top;
+}
+.userdetail h5{
+	color:#d50000;
+	margin-bottom: 5px;
+}
+.contactsubmit{
+	width: 200px;
+}
+
+.testimonial{
+	background:#d2eaef;
+	min-height:300px;
+}
+
+.testimonial h3{
+	color: #fff;
+	background: linear-gradient(to bottom, #237fe8 0%,#0361b2 100%);
+	border-radius: 6px 6px 0 0;
+	padding: 7px 0 7px 15px;
+}
+.testimonial p{
+	padding: 15px;
+	color:#000;
+}
+.testimonial span{
+	color:#000;
+	font-weight:700;
+	float: right;
+}
+.testimonial hr{
+	margin:0 auto;
+	border-top: 1px solid #232323;
+	width: 90%;
+}
+.footerstyle{
+	background-color:#383838;
+}
+.footerstyle h6{
+	color:#fff;
+}
+	
+
